@@ -1,0 +1,10 @@
+body{background: lightgrey}
+h1{
+	font-size: 30px;
+	color:blue;
+}
+h2{
+	font-size:29px;
+	color: green;
+}
+.big{font-size: 60px}
